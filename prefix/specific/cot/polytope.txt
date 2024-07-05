@@ -1,0 +1,10 @@
+Decide if the following summary have any of the specified problems in relation to the corresponding article.
+The problems are categorized as omission, addition, or inaccuracy. Omission means Key point is missing from the summary. Addition means Unnecessary and irrelevant snippets from the Article are included in the summary. Inaccuracy means some information in the summary is not supported by the article.
+
+Article:
+{{  Article  }}
+
+Summary:
+{{  Summary  }}
+
+Explain your reasoning step by step. Then, if the summary has any of the above problems, answer 'No'. Otherwise, answer 'Yes':

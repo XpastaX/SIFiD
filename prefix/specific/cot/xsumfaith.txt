@@ -1,0 +1,9 @@
+Decide if the following summary is consistent with the corresponding article. Note that consistency means all information in the summary is supported by the article.
+
+Article:
+{{  Article  }}
+
+Summary:
+{{  Summary  }}
+
+Explain your reasoning step by step then answer (Yes or No) the question:
